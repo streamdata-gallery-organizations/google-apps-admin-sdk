@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: google-apps-admin-sdk.api.streamdata.gallery
-tag: Temmplate
+tag: Google Apps Admin SDK
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
