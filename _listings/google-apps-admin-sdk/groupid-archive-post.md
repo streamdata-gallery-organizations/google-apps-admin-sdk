@@ -23,7 +23,7 @@ paths:
         200:
           description: OK
       tags:
-      - archive
+      - archives
 definitions: []
 x-collection-name: Google Apps Admin SDK
 x-streamrank:
