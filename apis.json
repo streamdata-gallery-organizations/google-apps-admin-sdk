@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Apps Admin SDK",
+	"description": "This is a repository of google apps admin sdk APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-apps-admin-sdk.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-apps-admin-sdk.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Apps Admin SDK",
+			"x-api-slug": "google-apps-admin-sdk",
+			"description": "Administer domain resources, create reports, and manage subscriptions. Use the Directory API to create and manage users and groups for a domain, along with their aliases. Programmatically access the functionality found at the Admin console Organization and users tab. Use the Reports API to gain insights on content management with Google Drive activity reports. Audit administrator actions. Generate customer and user usage reports.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nexusae0_icon2.png",
+			"humanURL": "https://developers.google.com/admin-sdk/",
+			"baseURL": "https:///",
+			"tags": "Google Apps Admin SDK",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-apps-admin-sdk/master/_listings/google-apps-admin-sdk/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Apps Admin SDK",
+	"include": [
+		{
+			"name": "Google Apps Admin SDK",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-apps-admin-sdk/master/_listings/google-apps-admin-sdk/apis.yaml"
+		}
+	]
+}

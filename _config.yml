@@ -4,7 +4,7 @@ url: google-apps-admin-sdk.streamdata.gallery
 tag: Google Apps Admin SDK
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-apps-admin-sdk
 github_branch: master
 collections:
